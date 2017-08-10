@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://balonush.co.il/index.html</loc>
+    <lastmod>2017-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://balonush.co.il/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://balonush.co.il/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://balonush.co.il/about-us.html</loc>
+    <lastmod>2017-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://balonush.co.il/phone/about-us.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://balonush.co.il/tablet/about-us.html"/>
+  </url>
+  <url>
+    <loc>http://balonush.co.il/shop.html</loc>
+    <lastmod>2017-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://balonush.co.il/phone/shop.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://balonush.co.il/tablet/shop.html"/>
+  </url>
+  <url>
+    <loc>http://balonush.co.il/decorated-rooms.html</loc>
+    <lastmod>2017-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://balonush.co.il/phone/decorated-rooms.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://balonush.co.il/tablet/decorated-rooms.html"/>
+  </url>
+  <url>
+    <loc>http://balonush.co.il/bouquet.html</loc>
+    <lastmod>2017-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://balonush.co.il/phone/bouquet.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://balonush.co.il/tablet/bouquet.html"/>
+  </url>
+  <url>
+    <loc>http://balonush.co.il/events.html</loc>
+    <lastmod>2017-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://balonush.co.il/phone/events.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://balonush.co.il/tablet/events.html"/>
+  </url>
+  <url>
+    <loc>http://balonush.co.il/crowns.html</loc>
+    <lastmod>2017-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://balonush.co.il/phone/crowns.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://balonush.co.il/tablet/crowns.html"/>
+  </url>
+</urlset>

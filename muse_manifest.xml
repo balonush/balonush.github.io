@@ -1,0 +1,478 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="balonush.co.il" resolutions="1x" timestamp="1498029535606">
+  <folder name="css">
+    <file name="site_global.css" crc="4047509077"/>
+    <file name="master_a-master.css" crc="11667256" ref="shop:decorated-rooms:bouquet:events:index:crowns:about-us"/>
+    <file name="shop.css" crc="4072834542" ref="shop"/>
+    <file name="decorated-rooms.css" crc="3833887714" ref="decorated-rooms"/>
+    <file name="bouquet.css" crc="4159094309" ref="bouquet"/>
+    <file name="events.css" crc="3802014918" ref="events"/>
+    <file name="index.css" crc="4203596246" ref="index"/>
+    <file name="iefonts_index.css" crc="3885818424" ref="index"/>
+    <file name="crowns.css" crc="4208898963" ref="crowns"/>
+    <file name="about-us.css" crc="3810288573" ref="about-us"/>
+  </folder>
+  <folder name="fonts">
+    <file name="gisha.woff" crc="337191340"/>
+    <file name="gisha.eot" crc="4188731972"/>
+    <file name="gisha.svg" crc="4294250934"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="museconfig.js" crc="4273287925" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="form_check.php" crc="4286608207" ref="phone>index"/>
+    <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
+    <file name="form_process.php" crc="3855659497" ref="phone>index"/>
+    <file name="form-u28227.php" crc="4030275933" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="form-u30685.php" crc="4091594476" ref="phone>index"/>
+    <file name="form-u29497.php" crc="433902001" ref="phone>index"/>
+    <file name="form-u30104.php" crc="4220468277" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="require.js" crc="85721165" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="form-u31204.php" crc="342451343" ref="phone>decorated-rooms"/>
+    <file name="form-u31363.php" crc="3912967631" ref="phone>bouquet"/>
+    <file name="form-u31619.php" crc="4283963078" ref="phone>events"/>
+    <file name="form-u31877.php" crc="356143263" ref="phone>crowns"/>
+    <file name="form-u24830.php" crc="465945010" ref="tablet>index"/>
+    <file name="form-u26996.php" crc="3871406784" ref="tablet>index"/>
+    <file name="form-u25021.php" crc="4156314726" ref="tablet>index"/>
+    <file name="form-u26879.php" crc="441078276" ref="tablet>index"/>
+    <file name="form-u27117.php" crc="4126154060" ref="tablet>decorated-rooms"/>
+    <file name="form-u27237.php" crc="85452454" ref="tablet>bouquet"/>
+    <file name="form-u27354.php" crc="273365486" ref="tablet>events"/>
+    <file name="form-u27471.php" crc="403547727" ref="tablet>crowns"/>
+    <file name="form-u5345.php" crc="382998663" ref="index"/>
+    <file name="form-u24254.php" crc="4174400352" ref="index"/>
+    <file name="form-u269.php" crc="4003971719" ref="index"/>
+    <file name="form-u24004.php" crc="242993074" ref="index"/>
+    <file name="form-u24380.php" crc="370028616" ref="decorated-rooms"/>
+    <file name="form-u24452.php" crc="4147249881" ref="bouquet"/>
+    <file name="form-u24569.php" crc="7218234" ref="events"/>
+    <file name="form-u24686.php" crc="471495280" ref="crowns"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4274030554" ref="phone>index"/>
+    <file name="logo.jpg" crc="481618862" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u29107-4.png" crc="246846601" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:decorated-rooms:bouquet:events:crowns"/>
+    <file name="u29110.png" crc="3944302920" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="u29110-a.png" crc="4269703914" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="balloon-2.png" crc="420118380" ref="phone>index:tablet>index:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:decorated-rooms:bouquet:events:crowns">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="crowns" alt=""/>
+      <caption webpage="crowns" alt=""/>
+      <caption webpage="decorated-rooms" alt=""/>
+      <caption webpage="decorated-rooms" alt=""/>
+      <caption webpage="bouquet" alt=""/>
+      <caption webpage="bouquet" alt=""/>
+    </file>
+    <file name="balloon-4.png" crc="4120357424" ref="phone>index:tablet>index:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:decorated-rooms:bouquet:events:crowns">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="crowns" alt=""/>
+      <caption webpage="crowns" alt=""/>
+      <caption webpage="decorated-rooms" alt=""/>
+      <caption webpage="decorated-rooms" alt=""/>
+      <caption webpage="bouquet" alt=""/>
+      <caption webpage="bouquet" alt=""/>
+    </file>
+    <file name="balloon-1.png" crc="4037882269" ref="phone>index:tablet>index:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:decorated-rooms:bouquet:events:crowns">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="crowns" alt=""/>
+      <caption webpage="crowns" alt=""/>
+      <caption webpage="decorated-rooms" alt=""/>
+      <caption webpage="decorated-rooms" alt=""/>
+      <caption webpage="bouquet" alt=""/>
+      <caption webpage="bouquet" alt=""/>
+    </file>
+    <file name="u28257-4.png" crc="3974328593" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="u28262-4.png" crc="4143055669" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="u28260-4.png" crc="200558992" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="hp-bg-u30256-fr.png" crc="4091996032" ref="phone>index"/>
+    <file name="logo-transprent2-u32123-fr.png" crc="3773445359" ref="phone>index"/>
+    <file name="balloon-2-u30707-fr.png" crc="3979774343" ref="phone>index:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="balloon-4-u30711-fr.png" crc="3819058031" ref="phone>index:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="balloon-1-u30710-fr.png" crc="308215677" ref="phone>index:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="u30682-4.png" crc="3974328593" ref="phone>index"/>
+    <file name="rooms 1-u30240-fr.jpg" crc="305259893" ref="phone>index:phone>decorated-rooms"/>
+    <file name="boquet 1-u30244-fr.jpg" crc="3786229763" ref="phone>index:phone>bouquet"/>
+    <file name="events 1-u30247-fr.jpg" crc="3807085123" ref="phone>index:phone>events:phone>crowns"/>
+    <file name="crown 1-u30249-fr.jpg" crc="4102201235" ref="phone>index:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns:tablet>index:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns:index:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="van-u30213-fr.png" crc="53213448" ref="phone>index"/>
+    <file name="crown 2-u30270-fr.jpg" crc="73581216" ref="phone>index:tablet>index:tablet>shop"/>
+    <file name="events 2-u30264-fr.jpg" crc="229919491" ref="phone>index:phone>events:tablet>index:tablet>shop"/>
+    <file name="boquet 2-u30272-fr.jpg" crc="4029911868" ref="phone>index:tablet>index"/>
+    <file name="rooms 2-u30266-fr.jpg" crc="3952034169" ref="phone>index:tablet>index:tablet>shop"/>
+    <file name="crown 2-u30275-fr.jpg" crc="3855392721" ref="phone>index"/>
+    <file name="events 2-u30279-fr.jpg" crc="3966799654" ref="phone>index"/>
+    <file name="boquet 2-u30281-fr.jpg" crc="482130064" ref="phone>index"/>
+    <file name="rooms 2-u30277-fr.jpg" crc="4291724822" ref="phone>index"/>
+    <file name="u30286-4.png" crc="535985080" ref="phone>index"/>
+    <file name="review 1.jpg" crc="4147344455" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="review -2.jpg" crc="474310321" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="review -3.jpg" crc="361937826" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u29547-4.png" crc="4125414602" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="rooms 2.jpg" crc="260780993" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boquet 2.jpg" crc="515706785" ref="phone>index:tablet>index:index:bouquet">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="events 2.jpg" crc="422940472" ref="phone>index:tablet>index:tablet>events:index:events">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crown 2.jpg" crc="5885252" ref="phone>index:tablet>index:tablet>crowns:index:crowns">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u29559-4.png" crc="535985080" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="u30100-4.png" crc="3974328593" ref="phone>index:phone>about-us:phone>shop:phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="van-u30813-fr.png" crc="362857076" ref="phone>about-us:tablet>about-us"/>
+    <file name="u30809-4.png" crc="4158100741" ref="phone>about-us"/>
+    <file name="u30808-4.png" crc="83902945" ref="phone>about-us"/>
+    <file name="u30807-4.png" crc="4128855274" ref="phone>about-us"/>
+    <file name="shay-b.jpg" crc="4033973025" ref="phone>about-us:tablet>about-us:about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="rooms 2-u30865-fr.jpg" crc="3983063571" ref="phone>shop"/>
+    <file name="rooms 1-u30869-fr.jpg" crc="4066906216" ref="phone>shop"/>
+    <file name="rooms 4-u30857-fr.jpg" crc="3900792416" ref="phone>shop"/>
+    <file name="rooms 3-u30861-fr.jpg" crc="3910643229" ref="phone>shop"/>
+    <file name="boquet 2-u30864-fr.jpg" crc="438304594" ref="phone>shop"/>
+    <file name="boquet 1-u30868-fr.jpg" crc="3954316014" ref="phone>shop"/>
+    <file name="boquet 4-u30856-fr.jpg" crc="4027743400" ref="phone>shop"/>
+    <file name="boquet 3-u30860-fr.jpg" crc="4273411398" ref="phone>shop"/>
+    <file name="events 2-u30863-fr.jpg" crc="471659956" ref="phone>shop"/>
+    <file name="events 1-u30867-fr.jpg" crc="4173674147" ref="phone>shop"/>
+    <file name="events 4-u30855-fr.jpg" crc="4110817909" ref="phone>shop"/>
+    <file name="events 3-u30859-fr.jpg" crc="3908267340" ref="phone>shop"/>
+    <file name="crown 2-u30862-fr.jpg" crc="4071842441" ref="phone>shop"/>
+    <file name="crown 1-u30866-fr.jpg" crc="92864319" ref="phone>shop"/>
+    <file name="crown 4-u30854-fr.jpg" crc="4279014261" ref="phone>shop"/>
+    <file name="crown 3-u30858-fr.jpg" crc="26373802" ref="phone>shop"/>
+    <file name="rooms 2-u31007-fr.jpg" crc="4151075116" ref="phone>decorated-rooms"/>
+    <file name="rooms 3-u31008-fr.jpg" crc="4113426540" ref="phone>decorated-rooms"/>
+    <file name="rooms 4-u31010-fr.jpg" crc="118696935" ref="phone>decorated-rooms"/>
+    <file name="rooms 1-u31003-fr.jpg" crc="4198021926" ref="phone>decorated-rooms"/>
+    <file name="rooms 2-u31002-fr.jpg" crc="3800612816" ref="phone>decorated-rooms"/>
+    <file name="rooms 3-u31000-fr.jpg" crc="4124014672" ref="phone>decorated-rooms"/>
+    <file name="rooms 4-u31001-fr.jpg" crc="4042501167" ref="phone>decorated-rooms"/>
+    <file name="u31017.png" crc="491647278" ref="phone>decorated-rooms"/>
+    <file name="u31017-r.png" crc="491647278" ref="phone>decorated-rooms"/>
+    <file name="u31201-4.png" crc="3974328593" ref="phone>decorated-rooms"/>
+    <file name="rooms 1-u31024-fr.jpg" crc="344922595" ref="phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="boquet 1-u31027-fr.jpg" crc="156608050" ref="phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="events 1-u31029-fr.jpg" crc="376611169" ref="phone>decorated-rooms:phone>bouquet:phone>events:phone>crowns"/>
+    <file name="boquet 4-u31328-fr.jpg" crc="361024819" ref="phone>bouquet"/>
+    <file name="boquet 3-u31327-fr.jpg" crc="3799437412" ref="phone>bouquet"/>
+    <file name="boquet 2-u31329-fr.jpg" crc="273978168" ref="phone>bouquet"/>
+    <file name="boquet 4-u31320-fr.jpg" crc="3881845819" ref="phone>bouquet"/>
+    <file name="boquet 3-u31323-fr.jpg" crc="162395406" ref="phone>bouquet"/>
+    <file name="boquet 2-u31322-fr.jpg" crc="3872004584" ref="phone>bouquet"/>
+    <file name="boquet 1-u31321-fr.jpg" crc="95257192" ref="phone>bouquet"/>
+    <file name="u31332.png" crc="491647278" ref="phone>bouquet"/>
+    <file name="u31332-r.png" crc="491647278" ref="phone>bouquet"/>
+    <file name="u31388-4.png" crc="3974328593" ref="phone>bouquet"/>
+    <file name="events 4-u31577-fr.jpg" crc="373019097" ref="phone>events"/>
+    <file name="events 3-u31579-fr.jpg" crc="4035327365" ref="phone>events"/>
+    <file name="events 4-u31585-fr.jpg" crc="4086464196" ref="phone>events"/>
+    <file name="events 3-u31584-fr.jpg" crc="20184872" ref="phone>events"/>
+    <file name="events 2-u31583-fr.jpg" crc="432490964" ref="phone>events"/>
+    <file name="events 1-u31582-fr.jpg" crc="3841597929" ref="phone>events"/>
+    <file name="u31587.png" crc="491647278" ref="phone>events"/>
+    <file name="u31587-r.png" crc="491647278" ref="phone>events"/>
+    <file name="u31612-4.png" crc="3974328593" ref="phone>events"/>
+    <file name="crown 4-u31826-fr.jpg" crc="4259427868" ref="phone>crowns"/>
+    <file name="crown 3-u31829-fr.jpg" crc="167110103" ref="phone>crowns"/>
+    <file name="crown 2-u31827-fr.jpg" crc="4220652288" ref="phone>crowns"/>
+    <file name="crown 4-u31836-fr.jpg" crc="226338487" ref="phone>crowns"/>
+    <file name="crown 3-u31834-fr.jpg" crc="278543576" ref="phone>crowns"/>
+    <file name="crown 2-u31833-fr.jpg" crc="213660425" ref="phone>crowns:tablet>crowns"/>
+    <file name="crown 1-u31835-fr.jpg" crc="212618274" ref="phone>crowns"/>
+    <file name="u31845.png" crc="491647278" ref="phone>crowns"/>
+    <file name="u31845-r.png" crc="491647278" ref="phone>crowns"/>
+    <file name="u31867-4.png" crc="3974328593" ref="phone>crowns"/>
+    <file name="u24855-4.png" crc="3974328593" ref="tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="u24858-4.png" crc="200558992" ref="tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="u24862-4.png" crc="4143055669" ref="tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="hp-bg-u25438-fr.png" crc="214548385" ref="tablet>index:index"/>
+    <file name="logo-transprent2.png" crc="4249575902" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u27027-4.png" crc="3974328593" ref="tablet>index"/>
+    <file name="boquet 1-u25426-fr.jpg" crc="338261756" ref="tablet>index:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="rooms 1-u25423-fr.jpg" crc="3788288633" ref="tablet>index"/>
+    <file name="events 1-u25429-fr.jpg" crc="109599164" ref="tablet>index:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="van-u25395-fr.png" crc="3857853476" ref="tablet>index"/>
+    <file name="u25448-4.png" crc="535985080" ref="tablet>index"/>
+    <file name="u25110-4.png" crc="4125414602" ref="tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="u25131-4.png" crc="535985080" ref="tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="u26910-4.png" crc="3974328593" ref="tablet>index:tablet>about-us:tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="u25758-4.png" crc="185315389" ref="tablet>about-us"/>
+    <file name="u25759-4.png" crc="15246260" ref="tablet>about-us"/>
+    <file name="u25760-4.png" crc="3795441736" ref="tablet>about-us"/>
+    <file name="boquet 1-u25819-fr.jpg" crc="3872290477" ref="tablet>shop"/>
+    <file name="rooms 1-u25820-fr.jpg" crc="437318149" ref="tablet>shop:tablet>decorated-rooms:tablet>bouquet:tablet>events:tablet>crowns"/>
+    <file name="events 1-u25818-fr.jpg" crc="378344935" ref="tablet>shop"/>
+    <file name="boquet 2-u25815-fr.jpg" crc="3789620852" ref="tablet>shop"/>
+    <file name="boquet 3-u25811-fr.jpg" crc="307915705" ref="tablet>shop"/>
+    <file name="rooms 3-u25812-fr.jpg" crc="464716781" ref="tablet>shop"/>
+    <file name="crown 3-u25809-fr.jpg" crc="3792358199" ref="tablet>shop"/>
+    <file name="events 3-u25810-fr.jpg" crc="193499427" ref="tablet>shop"/>
+    <file name="boquet 4-u25807-fr.jpg" crc="3870146528" ref="tablet>shop"/>
+    <file name="rooms 4-u25808-fr.jpg" crc="3774446895" ref="tablet>shop"/>
+    <file name="crown 4-u25805-fr.jpg" crc="409897620" ref="tablet>shop"/>
+    <file name="events 4-u25806-fr.jpg" crc="372117339" ref="tablet>shop"/>
+    <file name="rooms 1.jpg" crc="4068991076" ref="tablet>decorated-rooms:decorated-rooms">
+      <caption webpage="decorated-rooms" alt=""/>
+      <caption webpage="decorated-rooms" alt=""/>
+    </file>
+    <file name="rooms 2-u25915-fr.jpg" crc="56053853" ref="tablet>decorated-rooms"/>
+    <file name="rooms 3.jpg" crc="73300255" ref="tablet>decorated-rooms:decorated-rooms">
+      <caption webpage="decorated-rooms" alt=""/>
+      <caption webpage="decorated-rooms" alt=""/>
+    </file>
+    <file name="rooms 4.jpg" crc="3835744768" ref="tablet>decorated-rooms:decorated-rooms">
+      <caption webpage="decorated-rooms" alt=""/>
+    </file>
+    <file name="rooms 1-u25922-fr.jpg" crc="3843746901" ref="tablet>decorated-rooms"/>
+    <file name="rooms 2-u25919-fr.jpg" crc="482115796" ref="tablet>decorated-rooms"/>
+    <file name="rooms 3-u25921-fr.jpg" crc="39497283" ref="tablet>decorated-rooms"/>
+    <file name="rooms 4-u25920-fr.jpg" crc="4067257706" ref="tablet>decorated-rooms"/>
+    <file name="u25929.png" crc="491647278" ref="tablet>decorated-rooms"/>
+    <file name="u25929-r.png" crc="491647278" ref="tablet>decorated-rooms"/>
+    <file name="u27145-4.png" crc="3974328593" ref="tablet>decorated-rooms"/>
+    <file name="boquet 1.jpg" crc="4224674189" ref="tablet>bouquet:bouquet">
+      <caption webpage="bouquet" alt=""/>
+    </file>
+    <file name="boquet 2-u26158-fr.jpg" crc="9113270" ref="tablet>bouquet"/>
+    <file name="boquet 3.jpg" crc="4002452879" ref="tablet>bouquet:bouquet">
+      <caption webpage="bouquet" alt=""/>
+      <caption webpage="bouquet" alt=""/>
+    </file>
+    <file name="boquet 4.jpg" crc="3914537879" ref="tablet>bouquet:bouquet">
+      <caption webpage="bouquet" alt=""/>
+    </file>
+    <file name="boquet 1-u26156-fr.jpg" crc="4087392819" ref="tablet>bouquet"/>
+    <file name="boquet 2-u26155-fr.jpg" crc="195312232" ref="tablet>bouquet"/>
+    <file name="boquet 3-u26154-fr.jpg" crc="516303870" ref="tablet>bouquet"/>
+    <file name="boquet 4-u26153-fr.jpg" crc="105965871" ref="tablet>bouquet"/>
+    <file name="u26172.png" crc="491647278" ref="tablet>bouquet"/>
+    <file name="u26172-r.png" crc="491647278" ref="tablet>bouquet"/>
+    <file name="u27234-4.png" crc="3974328593" ref="tablet>bouquet"/>
+    <file name="events 1.jpg" crc="3982543567" ref="tablet>events:events">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="events 3.jpg" crc="517652694" ref="tablet>events:events">
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="events 4.jpg" crc="3806477248" ref="tablet>events:events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="events 1-u26408-fr.jpg" crc="362924795" ref="tablet>events"/>
+    <file name="events 2-u26407-fr.jpg" crc="378927237" ref="tablet>events"/>
+    <file name="events 3-u26409-fr.jpg" crc="4102273807" ref="tablet>events"/>
+    <file name="events 4-u26410-fr.jpg" crc="5457393" ref="tablet>events"/>
+    <file name="u26415.png" crc="491647278" ref="tablet>events"/>
+    <file name="u26415-r.png" crc="491647278" ref="tablet>events"/>
+    <file name="u27351-4.png" crc="3974328593" ref="tablet>events"/>
+    <file name="crown 1.jpg" crc="3765982699" ref="tablet>crowns:crowns">
+      <caption webpage="crowns" alt=""/>
+    </file>
+    <file name="crown 3.jpg" crc="4219074315" ref="tablet>crowns:crowns">
+      <caption webpage="crowns" alt=""/>
+    </file>
+    <file name="crown 4.jpg" crc="4262617815" ref="tablet>crowns:crowns">
+      <caption webpage="crowns" alt=""/>
+    </file>
+    <file name="crown 1-u26647-fr.jpg" crc="3968710917" ref="tablet>crowns"/>
+    <file name="crown 3-u26645-fr.jpg" crc="3890025181" ref="tablet>crowns"/>
+    <file name="crown 4-u26646-fr.jpg" crc="4128037721" ref="tablet>crowns"/>
+    <file name="u26658.png" crc="491647278" ref="tablet>crowns"/>
+    <file name="u26658-r.png" crc="491647278" ref="tablet>crowns"/>
+    <file name="u27468-4.png" crc="3974328593" ref="tablet>crowns"/>
+    <file name="balloon-3.png" crc="533898021" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5413-4.png" crc="3974328593" ref="index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="u6477-4.png" crc="200558992" ref="index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="u6482-4.png" crc="4143055669" ref="index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="u6936-4.png" crc="3974328593" ref="index"/>
+    <file name="u6494-4.png" crc="415814219" ref="index"/>
+    <file name="events 1-u1216-fr.jpg" crc="4040307636" ref="index:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="boquet 1-u1213-fr.jpg" crc="528308287" ref="index:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="rooms 1-u1209-fr.jpg" crc="535914507" ref="index:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="van.png" crc="279397815" ref="index:about-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="crown 2-u1194-fr.jpg" crc="177508860" ref="index:shop"/>
+    <file name="events 2-u6599-fr.jpg" crc="371451992" ref="index:shop"/>
+    <file name="boquet 2-u6608-fr.jpg" crc="4290050771" ref="index:shop"/>
+    <file name="rooms 2-u6617-fr.jpg" crc="378471941" ref="index:shop"/>
+    <file name="u6504-4.png" crc="535985080" ref="index"/>
+    <file name="u6491-4.png" crc="4125414602" ref="index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="u6693-4.png" crc="535985080" ref="index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="u6408-4.png" crc="3974328593" ref="index:about-us:shop:decorated-rooms:bouquet:events:crowns"/>
+    <file name="u4995-4.png" crc="3866381287" ref="about-us"/>
+    <file name="u5008-4.png" crc="3870814898" ref="about-us"/>
+    <file name="u5020-4.png" crc="384557742" ref="about-us"/>
+    <file name="crown 3-u1949-fr.jpg" crc="361906728" ref="shop"/>
+    <file name="events 3-u1952-fr.jpg" crc="3772862431" ref="shop"/>
+    <file name="boquet 3-u1943-fr.jpg" crc="4280652326" ref="shop"/>
+    <file name="rooms 3-u1947-fr.jpg" crc="209680442" ref="shop"/>
+    <file name="crown 4-u1940-fr.jpg" crc="9224785" ref="shop"/>
+    <file name="events 4-u1936-fr.jpg" crc="3951591532" ref="shop"/>
+    <file name="boquet 4-u1931-fr.jpg" crc="381802806" ref="shop"/>
+    <file name="rooms 4-u1934-fr.jpg" crc="252867290" ref="shop"/>
+    <file name="rooms 2-u2337-fr.jpg" crc="4277444870" ref="decorated-rooms"/>
+    <file name="rooms 1-u2326-fr.jpg" crc="461532725" ref="decorated-rooms"/>
+    <file name="rooms 2-u2327-fr.jpg" crc="535093311" ref="decorated-rooms"/>
+    <file name="rooms 3-u2325-fr.jpg" crc="3887176167" ref="decorated-rooms"/>
+    <file name="rooms 4-u5038-fr.jpg" crc="199043655" ref="decorated-rooms"/>
+    <file name="u5050.png" crc="491647278" ref="decorated-rooms"/>
+    <file name="u5050-r.png" crc="491647278" ref="decorated-rooms"/>
+    <file name="u8664-4.png" crc="3974328593" ref="decorated-rooms"/>
+    <file name="boquet 1-u6092-fr.jpg" crc="376375909" ref="bouquet"/>
+    <file name="boquet 2-u6091-fr.jpg" crc="86518401" ref="bouquet"/>
+    <file name="boquet 3-u6090-fr.jpg" crc="26035638" ref="bouquet"/>
+    <file name="boquet 4-u6093-fr.jpg" crc="3864692856" ref="bouquet"/>
+    <file name="u6107.png" crc="491647278" ref="bouquet"/>
+    <file name="u6107-r.png" crc="491647278" ref="bouquet"/>
+    <file name="u24481-4.png" crc="3974328593" ref="bouquet"/>
+    <file name="events 1-u6201-fr.jpg" crc="4079413129" ref="events"/>
+    <file name="events 2-u6200-fr.jpg" crc="4275424888" ref="events"/>
+    <file name="events 3-u6202-fr.jpg" crc="4138464995" ref="events"/>
+    <file name="events 4-u6203-fr.jpg" crc="213189897" ref="events"/>
+    <file name="u6183.png" crc="491647278" ref="events"/>
+    <file name="u6183-r.png" crc="491647278" ref="events"/>
+    <file name="u24598-4.png" crc="3974328593" ref="events"/>
+    <file name="crown 1-u6286-fr.jpg" crc="478076667" ref="crowns"/>
+    <file name="crown 2-u6287-fr.jpg" crc="20062677" ref="crowns"/>
+    <file name="crown 3-u6288-fr.jpg" crc="4242221414" ref="crowns"/>
+    <file name="crown 4-u6289-fr.jpg" crc="376274186" ref="crowns"/>
+    <file name="u6301.png" crc="491647278" ref="crowns"/>
+    <file name="u6301-r.png" crc="491647278" ref="crowns"/>
+    <file name="u24715-4.png" crc="3974328593" ref="crowns"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="358922635" ref="tablet>bouquet:tablet>events:tablet>crowns:tablet>about-us:tablet>decorated-rooms:tablet>index:tablet>shop"/>
+      <file name="bouquet.css" crc="290408237" ref="tablet>bouquet"/>
+      <file name="events.css" crc="458788477" ref="tablet>events"/>
+      <file name="crowns.css" crc="39291187" ref="tablet>crowns"/>
+      <file name="about-us.css" crc="4026506302" ref="tablet>about-us"/>
+      <file name="decorated-rooms.css" crc="463432807" ref="tablet>decorated-rooms"/>
+      <file name="index.css" crc="4278303129" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="484729678" ref="tablet>index"/>
+      <file name="shop.css" crc="410346001" ref="tablet>shop"/>
+    </folder>
+    <file name="index.html" crc="141956450" seo="true" mt="1498029491061" redirect="true"/>
+    <file name="about-us.html" crc="183271047" seo="true" mt="1498029490974" redirect="true"/>
+    <file name="shop.html" crc="3896224063" seo="true" mt="1498029490622" redirect="true"/>
+    <file name="decorated-rooms.html" crc="3928104632" seo="true" mt="1498029490145" redirect="true"/>
+    <file name="bouquet.html" crc="3844820243" seo="true" mt="1498029490458" redirect="true"/>
+    <file name="events.html" crc="4144467232" seo="true" mt="1498029490618" redirect="true"/>
+    <file name="crowns.html" crc="22209498" seo="true" mt="1498029490159" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="300897191" ref="phone>index:phone>events:phone>about-us:phone>crowns:phone>decorated-rooms:phone>shop:phone>bouquet"/>
+      <file name="index.css" crc="4135050270" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="526750552" ref="phone>index"/>
+      <file name="events.css" crc="4213637996" ref="phone>events"/>
+      <file name="about-us.css" crc="388770890" ref="phone>about-us"/>
+      <file name="crowns.css" crc="128064934" ref="phone>crowns"/>
+      <file name="decorated-rooms.css" crc="461951042" ref="phone>decorated-rooms"/>
+      <file name="shop.css" crc="71735678" ref="phone>shop"/>
+      <file name="bouquet.css" crc="383061719" ref="phone>bouquet"/>
+    </folder>
+    <file name="index.html" crc="4180441709" seo="true" mt="1498029491062" redirect="true"/>
+    <file name="about-us.html" crc="4294358195" seo="true" mt="1498029490978" redirect="true"/>
+    <file name="shop.html" crc="239850649" seo="true" mt="1498029490617" redirect="true"/>
+    <file name="decorated-rooms.html" crc="4047108130" seo="true" mt="1498029490144" redirect="true"/>
+    <file name="bouquet.html" crc="4064226089" seo="true" mt="1498029490463" redirect="true"/>
+    <file name="events.html" crc="4052457664" seo="true" mt="1498029490623" redirect="true"/>
+    <file name="crowns.html" crc="4141181867" seo="true" mt="1498029490155" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="272975902" seo="true" mt="1498029491059" redirect="true"/>
+  <file name="about-us.html" crc="3831659996" seo="true" mt="1498029490973" redirect="true"/>
+  <file name="shop.html" crc="4239717146" seo="true" mt="1498029490619" redirect="true"/>
+  <file name="decorated-rooms.html" crc="4054580957" seo="true" mt="1498029490138" redirect="true"/>
+  <file name="bouquet.html" crc="434280001" seo="true" mt="1498029490462" redirect="true"/>
+  <file name="events.html" crc="112639978" seo="true" mt="1498029490621" redirect="true"/>
+  <file name="crowns.html" crc="4144647212" seo="true" mt="1498029490160" redirect="true"/>
+</manifest>
